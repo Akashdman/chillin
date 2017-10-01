@@ -38,7 +38,7 @@ Reference images:
 1. Type `exit` and then hit `enter` to return to the login prompt.
 2. Open a new terminal tab. `command+T`.
 3. Enter `screen -ls` in the terminal and copy the Session number before .tty001 for use in the next step.
-4. Issue the following command in the terminal: screen -X -S (session number) quit
+4. Issue the following command in the terminal: `screen -X -S (session number) quit`
 
 ***
 
